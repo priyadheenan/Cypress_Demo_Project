@@ -1,0 +1,11 @@
+{
+  "firstName": "TestUser",
+  "lastName": "ABC",
+  "userEmail": "test@test.com",
+  "userNumber": 123456789,
+  "monthOfBirth": "January",
+  "yearOfBirth": "1990",
+  "dayOfBirth": 15,
+  "subjects": "Cypress Assignment",
+  "currentAddress": "Netherlands"
+}

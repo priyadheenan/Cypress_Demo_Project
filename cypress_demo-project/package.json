@@ -1,0 +1,22 @@
+{
+  "name": "Cypress Task",
+  "version": "1.0.0",
+  "description": "Automation",
+  "main": "index.js",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.2",
+    "@percy/cli": "^1.11.0",
+    "@percy/cypress": "^3.1.2",
+    "cypress": "^10.11.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-wait-until": "^1.7.2"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.1"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}
